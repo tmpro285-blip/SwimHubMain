@@ -313,7 +313,7 @@ v5:Destroy();
 -- end);
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-    Title = "Swim Hub Hub",
+    Title = "Swim Hub",
     SubTitle = "Blox Fruit",
     TabWidth = 160,
     Theme = "Dark",
@@ -9327,4 +9327,5 @@ v14:Notify({
     Title = "Swim Hub",
     Content = "Tải Xong",
     Duration = 10
+
 });
