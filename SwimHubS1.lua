@@ -1,5 +1,19 @@
 -- discord.gg/tboyroblox
 
+    Key = {
+        KeySystem = true,
+        Title = "SwimHub System",
+        Description = "Free Key ở dưới",
+        KeyLink = "https://link-hub.net/1393439/pOZyH5PCePP4",
+        Keys = {"SwimHub_KeyFree123"},
+        Notifi = {
+        Notifications = true,
+        CorrectKey = "Đang nhận key...",
+       Incorrectkey = "Bạn đã nhập sai key",
+       CopyKeyLink = "sao chép link get key"
+      }
+    }
+  })
 
 shared.LoaderTitle = "Đăng Ký Kênh Swim Hub";
 shared.LoaderKeyFrames = {
@@ -9329,3 +9343,4 @@ v14:Notify({
     Duration = 10
 
 });
+
